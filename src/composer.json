@@ -1,0 +1,16 @@
+{
+  "name": "admin/first_project",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "rect3m",
+      "email": "147329200+rect3m@users.noreply.github.com"
+    }
+  ],
+  "require": {}
+}
